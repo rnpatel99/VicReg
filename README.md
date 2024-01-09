@@ -1,4 +1,4 @@
-# CS682_FinalProject
+# VicReg Model
 
 ## VICREG notes from https://arxiv.org/pdf/2105.04906.pdf
 
